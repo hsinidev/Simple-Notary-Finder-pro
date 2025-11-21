@@ -1,0 +1,7 @@
+{
+  "name": "Simple Notary Finder",
+  "description": "A modern tool to find nearby notary publics using your device's location. Features a dynamic interface with a simulated map and a list of local notary services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
