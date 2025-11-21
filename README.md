@@ -9,13 +9,6 @@
   <p align="center">
     <a href="https://notary.doodax.com" target="_blank"><strong>🚀 LIVE DEMO: notary.doodax.com</strong></a>
   </p>
-
-  <p align="center">
-    [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
-    [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-    [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
-    [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-  </p>
 </div>
 
 ---
