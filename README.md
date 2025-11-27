@@ -13,7 +13,7 @@
     Bridging the gap between urgent legal needs and local service availability.
     <br />
     <br />
-    <a href="https://notary.doodax.com" target="_blank"><strong>🚀 Launch Live Demo</strong></a>
+    <a href="https://doodax.com/tools/notary-finder/index.html" target="_blank"><strong>🚀 Launch Live Demo</strong></a>
     <br />
     <br />
   </p>
